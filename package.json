@@ -1,0 +1,25 @@
+{
+	"name": "plsdonate-utils",
+	"version": "2.1.0",
+	"description": "",
+	"scripts": {},
+	"author": "tzechco",
+	"license": "idk",
+	"dependencies": {
+		"axios": "^0.27.2",
+		"bottleneck": "^2.19.5",
+		"colors": "^1.4.0",
+		"discord.js": "^12.5.3",
+		"fast-glob": "^3.2.12",
+		"ini": "^3.0.1",
+		"noblox.js": "github:tzechco/noblox.js",
+		"node-file-dialog": "github:tzechco/node-file-dialog",
+		"playwright": "^1.28.1",
+		"playwright-chromium": "^1.28.1",
+		"playwright-extra": "^4.3.5",
+		"puppeteer-extra-plugin-stealth": "^2.11.1",
+		"robloxlauncherapi": "^1.5.7",
+		"termit": "^0.4.4",
+		"ws": "^8.11.0"
+	}
+}
